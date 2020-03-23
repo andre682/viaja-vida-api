@@ -1,0 +1,11 @@
+{
+  "name": "viaja-vida-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andre682/viaja-vida-api.git",
+  "author": "Andre Torbitoni <andre.torbitoni@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
